@@ -7,3 +7,7 @@ body {
 	font-size: 100% ;
 	background-image: linear-gradient(to bottom left, #F8FF00, #F9FF28, #F9FE49, #FFFFFF, #FF8A2F, #FF8321, #FF7000);
 } 
+
+footer {
+	font-size: 50%
+}
